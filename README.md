@@ -3,11 +3,11 @@
 ### About me ✨
 <img align="right" src="https://media.tenor.com/2X88e7y0UvAAAAAi/vtuber-anime.gif" width="150" alt="Chibi Dance"/>
 
-**I am an Electrical Engineering student at Universitas Airlangga with a strong interest in electronics, embedded systems, and hardware engineering. I love to explore new technologies, build practical projects, and turning ideas into functional circuits.
+**I am an Electrical Engineering student at Universitas Airlangga with a strong interest in electronics, embedded systems, and hardware engineering. I love to explore new technologies, build practical projects, and turning ideas into functional circuits.**
 
-I am currently a beginner in Machine Learning, but I am highly eager to learn and continuously develop my skills in AI and data-driven technologies. I am motivated to explore new concepts, build practical projects, and improve through real-world experience.
+**I am currently a beginner in Machine Learning, but I am highly eager to learn and continuously develop my skills in AI and data-driven technologies. I am motivated to explore new concepts, build practical projects, and improve through real-world experience.**
 
-With a background in web development and a growing interest in Artificial Intelligence, I aim to bridge software engineering and AI to create impactful and innovative solutions.**
+**With a background in web development and a growing interest in Artificial Intelligence, I aim to bridge software engineering and AI to create impactful and innovative solutions.**
 
 ---
 
