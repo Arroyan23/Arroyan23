@@ -1,6 +1,7 @@
 # Hi 👋! My name is Ahmad Syawqi Arroyan
 
 ### About me ✨
+---
 <img align="right" src="https://media.tenor.com/2X88e7y0UvAAAAAi/vtuber-anime.gif" width="150" alt="Chibi Dance"/>
 
 **I am an Electrical Engineering student at Universitas Airlangga with a strong interest in electronics, embedded systems, and hardware engineering. I love to explore new technologies, build practical projects, and turning ideas into functional circuits.**
