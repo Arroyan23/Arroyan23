@@ -14,7 +14,6 @@
 
 ### Stack 🧘‍♂️
 
-### Stack 🧘‍♂️
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
@@ -36,13 +35,13 @@
 ### Connect With Me! 🤝
 
 <p align="left">
-  <a href="https://linkedin.com/in/[USERNAME_LINKEDIN_KAMU]" target="_blank">
+  <a href="https://linkedin.com/in/ahmad-syawqi-arroyan" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/[USERNAME_INSTAGRAM_KAMU]" target="_blank">
+  <a href="https://instagram.com/rynsywq" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/[ID_DISCORD_KAMU]" target="_blank">
+  <a href="https://discord.com/users/oyeng3511" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
 </p>
