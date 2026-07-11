@@ -35,7 +35,7 @@
 ### Connect With Me! 🤝
 
 <p align="left">
-  <a href="https://linkedin.com/in/ahmad-syawqi-arroyan" target="_blank">
+  <a href="https://linkedin.com/in/ahmad-syawqi-arroyan-b20457324" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/rynsywq" target="_blank">
