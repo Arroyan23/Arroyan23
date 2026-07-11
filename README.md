@@ -4,7 +4,7 @@
 ---
 <img align="right" src="https://media.tenor.com/2X88e7y0UvAAAAAi/vtuber-anime.gif" width="150" alt="Chibi Dance"/>
 
-**I am an Electrical Engineering student at Universitas Airlangga with a deep passion for electronics, embedded systems, and hardware engineering. I thrive on exploring emerging technologies, building practical hands-on projects, and turning complex ideas into functional, real-world circuits. My academic journey has provided me with a solid foundation in hardware design, and I am always looking for ways to push my technical boundaries.**
+**I am an Electrical Engineering student at Universitas Airlangga with a deep passion for electronics, embedded systems, and hardware engineering. I thrive on exploring emerging technologies, building practical hands-on projects, and turning complex ideas into functional, real-world circuits.**
 
 **Driven by curiosity, I am currently expanding my skill set into Artificial Intelligence and Machine Learning. Although I am starting as a beginner in this space, I am highly eager to master data-driven technologies and smart automation. I am actively motivated to explore innovative concepts, build intelligent software models, and accelerate my growth through continuous learning and real-world implementation.**
 
