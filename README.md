@@ -4,11 +4,11 @@
 ---
 <img align="right" src="https://media.tenor.com/2X88e7y0UvAAAAAi/vtuber-anime.gif" width="150" alt="Chibi Dance"/>
 
-**I am an Electrical Engineering student at Universitas Airlangga with a deep passion for electronics, embedded systems, and hardware engineering. I thrive on exploring emerging technologies, building practical hands-on projects, and turning complex ideas into functional, real-world circuits.**
+I am an Electrical Engineering student at Universitas Airlangga (UNAIR) with a strong foundation in hardware engineering. I graduated from High School majoring in Natural Sciences , where I focused on physics automation and gained hands-on experience through practical circuit laboratory.
 
-**Driven by curiosity, I am currently expanding my skill set into Artificial Intelligence and Machine Learning. Although I am starting as a beginner in this space, I am highly eager to master data-driven technologies and smart automation. I am actively motivated to explore innovative concepts, build intelligent software models, and accelerate my growth through continuous learning and real-world implementation.**
+I am currently a beginner in Machine Learning, but I am highly eager to learn and continuously develop my skills in AI and data-driven technologies. I am motivated to explore new concepts, build practical projects, and improve through real-world experience.
 
-**With my existing background in web development and a rapidly growing interest in AI, my ultimate goal is to bridge the gap between software engineering, intelligent systems, and hardware architecture. I aim to combine these multi-disciplinary skills to design impactful, smart, and innovative solutions that can solve real-world engineering challenges.**
+With a background in web development and a growing interest in Artificial Intelligence, I aim to bridge software engineering and AI to create impactful and innovative solutions.
 
 ---
 
